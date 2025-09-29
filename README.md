@@ -19,7 +19,7 @@ I have experience in:
 📝 I am enthusiastic about learning new technologies, contributing to open-source projects, and developing practical solutions that make an impact. I’m always looking to collaborate on interesting projects and improve my coding skills.
 
 ## Tech Stack
-[!My Skills] (https://skillicons.dev/icons?i=html,css,js,python,django,oraclesql)](https://skillicons.dev)
+[!My Skills] (https://skillicons.dev/icons?i=html,css,js,python,django,oraclesql) ](https://skillicons.dev)
 
 
 ## 💻 Currently exploring
