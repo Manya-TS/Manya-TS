@@ -22,7 +22,7 @@ I have experience in:
 [!My Skills] (https://skillicons.dev/icons?i=html,css,js,python,django,oracle sql)](https://skillicons.dev)
 
 
-💻 Currently exploring
+## 💻 Currently exploring
 
 Hi! I’m a recent Bachelor of Engineering (CSE) graduate and an aspiring Full Python Developer. I’m passionate about web development and building dynamic, data-driven applications. I’m currently enhancing my skills through a course at PySpiders, Bangalore.
 
@@ -39,7 +39,7 @@ Current Learning: Full Python development, advanced Django, REST APIs, and autom
 Projects & Exploration: Working on web apps and real-world projects to apply my skills practically.
 
 
-📬 Get in Touch
+## 📬 Get in Touch
 
 📳 email with me manyats98256@gmail.com
 📲 connect with me on - www.linkedin.com/in/manya-ts
