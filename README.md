@@ -2,7 +2,7 @@
 
 I am a passionate Bachelor of Engineering CSE student at Visvesvaraya Technological University Belgavi, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<Manya> 's status] (https://github.com/Manya-TS/)
+![Manya's status] (https://github.com/Manya-TS/)
 
 ## 🚀 About Me
 
