@@ -41,7 +41,7 @@ Projects & Exploration: Working on web apps and real-world projects to apply my 
 
 📬 Get in Touch
 
-📳 email with me omanyats98256@gmail.com
+📳 email with me manyats98256@gmail.com
 📲 connect with me on - www.linkedin.com/in/manya-ts
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
